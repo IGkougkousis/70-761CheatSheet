@@ -19,6 +19,12 @@ All the links below are useful for questions that have appeared in past exams.
 
 ---
 
+### Combining Data
+
+- [SELECT - GROUP BY- Transact-SQL](https://docs.microsoft.com/en-us/sql/t-sql/queries/select-group-by-transact-sql?view=sql-server-2017)
+
+---
+
 ### Logic
 
 - [ISNULL (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/functions/isnull-transact-sql?view=sql-server-2017)
@@ -32,12 +38,16 @@ All the links below are useful for questions that have appeared in past exams.
 
 - [Temporal Tables](https://docs.microsoft.com/en-us/sql/relational-databases/tables/temporal-tables?view=sql-server-2017)
 - [Querying Data in a System-Versioned Temporal Table](https://docs.microsoft.com/en-us/sql/relational-databases/tables/querying-data-in-a-system-versioned-temporal-table?view=sql-server-2017)
+- [WITH common_table_expression (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-2017)
 
 ---
 
 ### Other
 
 - [THROW (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/throw-transact-sql?view=sql-server-2017)
+- [Transact-SQL Syntax Conventions (Transact-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-elements/transact-sql-syntax-conventions-transact-sql?view=sql-server-2017)
+- [ShortestLineTo (geometry Data Type)](https://docs.microsoft.com/en-us/sql/t-sql/spatial-geometry/shortestlineto-geometry-data-type?view=sql-server-2017)
+- [STLength (geometry Data Type)](https://docs.microsoft.com/en-us/sql/t-sql/spatial-geometry/stlength-geometry-data-type?view=sql-server-2017)
 
 ---
 
